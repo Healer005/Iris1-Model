@@ -40,4 +40,3 @@ def predict():
 if __name__=='__main__':
     app.run()
 
-pip freeze > "C:\\Users\\hp\\OneDrive\\Documents\\DURHAM\\CAPESTONE\\202441.11546-AIDI-1003-01 - CAPSTONE TERM I - 352024 - 1030 AM\\Iris_2\\Iris_2\\requirements1.txt"
